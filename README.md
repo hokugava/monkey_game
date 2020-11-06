@@ -1,2 +1,2 @@
-# monkey_game
-Simple Monkey 2D platformer
+# Monkey Game
+Simple Monkey 2D platformer based on Unity3D
