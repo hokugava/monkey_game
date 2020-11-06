@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "791040436544",
+    "firebase_url": "https://monkey-jumper-e7057.firebaseio.com",
+    "project_id": "monkey-jumper-e7057",
+    "storage_bucket": "monkey-jumper-e7057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791040436544:android:f24761414e55cc898572a5",
+        "android_client_info": {
+          "package_name": "com.stanleysworkflow.monkeyjumper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791040436544-258hbte6dl25l6u49el6qiekk84ot9ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAUBf7E-jpHk7Dmojni1l_z4LMHNBhNjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791040436544-258hbte6dl25l6u49el6qiekk84ot9ma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
